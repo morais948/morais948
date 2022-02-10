@@ -1,7 +1,7 @@
 ### Olá! eu sou Matheus Morais 👋
 
 - 🔭 Eu trabalho atualmente como desenvolvedor backend, porém já atuei como fullstack.
-- 🤓 Estou estudando atualmente alguns designs patterns, como o Factory Method ou até mesmo o SOLID.
+- 🤓 Estou estudando atualmente alguns designs patterns, como o Factory Method e os princípios do SOLID.
 - 📚 Estou lendo <a href="https://www.google.com/search?q=livro+clean+code&rlz=1C1FCXM_pt-PTBR953BR953&oq=livro+clea&aqs=chrome.0.0i355i512j46i512j69i57j46i512j0i512l5j0i22i30.2736j0j7&sourceid=chrome&ie=UTF-8" target="_blank">clean code</a>
 
 
