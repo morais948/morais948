@@ -1,6 +1,6 @@
 ### Olá! eu sou Matheus Morais 👋
 
-- 🔭 Trabalho atualmente como desenvolvedor backend, porém já atuei como fullstack.
+- 🔭 Desenvolvedor fullstack.
 - 🤓 Gosto de estudar constantemente para me manter atualizado.
 <!--  
 <div align="center">
